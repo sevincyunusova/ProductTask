@@ -1,0 +1,14 @@
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\bin\Debug\net10.0\ProductApp.exe
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\bin\Debug\net10.0\ProductApp.deps.json
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\bin\Debug\net10.0\ProductApp.runtimeconfig.json
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\bin\Debug\net10.0\ProductApp.dll
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\bin\Debug\net10.0\ProductApp.pdb
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\obj\Debug\net10.0\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\obj\Debug\net10.0\ProductApp.AssemblyInfoInputs.cache
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\obj\Debug\net10.0\ProductApp.AssemblyInfo.cs
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\obj\Debug\net10.0\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\obj\Debug\net10.0\ProductApp.dll
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\obj\Debug\net10.0\refint\ProductApp.dll
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\obj\Debug\net10.0\ProductApp.pdb
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\obj\Debug\net10.0\ProductApp.genruntimeconfig.cache
+C:\Users\Sevincxanim\OneDrive\İş masası\hometask\ProductApp\obj\Debug\net10.0\ref\ProductApp.dll

@@ -29,11 +29,17 @@ namespace ProductManagement
             get { return productDate; }
             set { productDate = value; }
         }
-        public Product(string name, string category, double price, DateTime date)
-        {
+        public Product(string name, string category, double price, DateTime date) {
             Name = name;
             Category = category;
             Price = price;
             ProductDate = date;
+        }
+        public void GetData() {
+            Console.WriteLine($"Mehsul: {Name} | Kateqoriya : {Category} | Qiymet: {Price} | Tarix: {ProductDate.ToShortDateString()}");
+        }
+
+        public bool IsOld() {
+            return DateTime.Now > ProductDate;
         }
     } 

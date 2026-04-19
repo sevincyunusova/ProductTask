@@ -15,5 +15,13 @@ namespace ProductManagement {
             get { return category; }
             set { category = value; }
         }
+        public double Price {
+            get { return price; }
+            set { price = value; }
+        }
+            public DateTime ProductDate {
+            get { return productDate; }
+            set { productDate = value; }
+        }
     } 
 } 
